@@ -31,8 +31,7 @@ header > .interface{
     text-align: center;
     justify-content: space-between;
 }
-.interface .h1 span{
-    
+.interface.span  h1{
     color: #00FF88;
 }
 
