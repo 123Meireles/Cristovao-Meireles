@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <!--BOOTSTRAP ICONS-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!--FIM BOOTSTAP ICONS-->  
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Cristovao.css">
 </head>
 <body>
     
@@ -15,18 +15,22 @@
     <div class="interface">
         <div class="logo">
             <a href="#">
-                <img src="logo 2.png" alt="logo da CMN">
+                <h1>Cristóvão Meireles</h1>
             </a>
 
-        </div><!--logo-->
+        </div>
 
 <nav class="menu-desktop">
-    <ul>
-        <li><a href="#">Inicio</a></li>
+    <ul class="ul">
+        <li><a href="Inicio.html">Inicio</a></li>
         <li><a href="habilidades.html">Habilidades</a></li>
         <li><a href="sobre mim.html">Sobre</a></li>
         <li><a href="projectos.html">Projectos</a></li>
+        
+        </div>
     </ul>
+    
+    
 </nav>
 <div class="btn-contacto">
     <a href="contacto.html">
@@ -44,8 +48,10 @@
             <div class="flex">
                 <div class="txt-topo-site">
                     <h1>OLÁ SEJA BEM-VINDO AO MEU PORTFÓLIO<span>.</span></h1>
-                    <p>Precisa de soluções tecnológicas rápidas e confiáveis? Como técnico de suporte informático, estou aqui para garantir que seus dispositivos e redes funcionem perfeitamente. 
-                        Entre em contato comigo e transforme seus desafios tecnológicos em resultados práticos. Vamos simplificar sua vida digital juntos!.</p>
+                    <p>Eu sou o Cristóvão, uma pessoa curiosa e sempre em busca de aprender mais. Gosto de explorar novas ideias e me desafiar em diferentes áreas. 
+                        Quando encontro algo que me interessa, me dedico a entender e a aplicar, seja no mundo digital, em projetos ou no meu próprio crescimento pessoal. 
+                        Sei que cada novo aprendizado é um passo importante para construir algo maior e mais significativo. 
+                        Acredito que a chave para evoluir é estar sempre aberto a novos conhecimentos e experiências..</p>
 
                         <div class="btn-contacto">
                             <a href="contacto.html">
@@ -56,7 +62,7 @@
                 </div><!--txt-topo-site-->
 
                 <div class="img-topo-site">
-                    <img src="imagem de perfil.jpg" alt="topo-do-site imagem">
+                    <img src="foto.jpg" alt="Nhachengo">
 
                 </div><!--img-topo-site-->
 
