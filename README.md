@@ -15,9 +15,7 @@
 <header>
     <div class="interface">
         <div class="logo">
-            <a href="#">
-                <h1>Cristovao Meireles</h1>
-            </a>
+           <h1>Cristovao-Meireles </h1>
 
         </div><!--logo-->
 
